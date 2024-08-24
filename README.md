@@ -1,5 +1,3 @@
-# USPEX_guide
-`INPUT`, `OUTPUT`, `ANALYSIS`
 This is a description of my project. Below is a flowchart illustrating the process.
 
 ```mermaid
