@@ -1,4 +1,4 @@
-Below is a flowchart illustrating the process of USPEX.
+## Below is a flowchart illustrating the process of USPEX:
 
 ```mermaid
 graph TD;
