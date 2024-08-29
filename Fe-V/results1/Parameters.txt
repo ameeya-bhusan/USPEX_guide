@@ -1,0 +1,66 @@
+PARAMETERS EVOLUTIONARY ALGORITHM
+***************************************
+*        TYPE OF RUN AND SYSTEM       *
+***************************************
+USPEX      : calculationMethod
+300        : calculationType
+
+% optType
+1
+% EndOptType
+
+% symmetries
+1-230
+% endSymmetries
+
+% atomType
+V Fe
+% EndAtomType
+
+% numSpecies
+17 3
+% EndNumSpecies
+
+***************************************
+*             POPULATION              *
+***************************************
+20         : populationSize
+20         : initialPopSize
+200        : numGenerations
+20         : stopCrit
+
+***************************************
+*             CONSTRAINTS             *
+***************************************
+
+% IonDistances
+1.8 2.0
+2.0 1.8
+% EndDistances
+
+***************************************
+*        VARIATION OPERATORS          *
+***************************************
+0.4        : fracGene
+0.3        : fracRand
+0.1        : fracAtomsMut
+0.1        : fracLatMut
+0.1        : fracPerm
+
+***************************************
+*   DETAILS OF ABINITIO CALCULATION   *
+***************************************
+% abinitioCode
+1
+% ENDabinit
+
+% commandExecutable
+mpirun -np 4 /opt/vasp5/vasp.5.4.4/bin/vasp_std > output
+% EndExecutable
+
+% KresolStart
+0.10
+% Kresolend
+
+20         : numParallelCalcs
+1          : whichCluster
