@@ -1,0 +1,1754 @@
+===== USPEX WARNING @ 20:26:6 06-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+7.6246    -0.30238     0.16223
+-0.2206       6.277    0.035416
+0.13402    0.013251      5.3979
+ V  Fe 
+17   3
+Direct
+0.055065     0.18091    0.078838
+0.9331     0.23096     0.54139
+0.58939     0.40346     0.42209
+0.22535      0.5046      0.3033
+0.90788     0.54767     0.20486
+0.0871     0.50053     0.77059
+0.77207     0.62351     0.70161
+0.22564     0.81021     0.94391
+0.57194    0.028254     0.74984
+0.24639     0.12764      0.6226
+0.093101     0.83382     0.45084
+0.73561     0.32287     0.91478
+0.90627     0.91504      0.8858
+0.38639     0.24026     0.10026
+0.56201     0.68507    0.069751
+0.69355    0.099689     0.22837
+0.43973     0.73092      0.5714
+0.40707     0.44198     0.78842
+0.38617     0.93092     0.26125
+0.77843     0.84392      0.3925
+
+
+Struture before relaxation, for checking
+1.00
+10.223            0            0
+3.1073e-16      5.0747           0
+3.0206e-16  3.0206e-16      4.9331
+ V  Fe 
+17   3
+Direct
+0.00012     0.00012     0.25012
+0.00012     0.00012     0.75012
+0.50012     0.50012     0.25012
+0.21692     0.50012     0.25012
+0.7833      0.5001     0.25012
+0.2169      0.5001     0.75012
+0.78332     0.50012     0.75012
+0.2833      0.0001     0.75012
+0.71692     0.00012     0.75012
+0.14172     0.19172     0.50012
+0.8585      0.8085     0.50012
+0.8585      0.1917     0.00012
+0.14172     0.80852     0.00012
+0.3585      0.3085     0.00012
+0.64172     0.69172     0.00012
+0.64172     0.30852     0.50012
+0.3585      0.6917     0.50012
+0.50012     0.50012     0.75012
+0.28332     0.00012     0.25012
+0.7169      0.0001     0.25012
+
+
+===== USPEX WARNING @ 20:26:6 06-Nov-2023 ===== 
+Heredity : Failed to do Heredity in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 20:26:6 06-Nov-2023 ===== 
+Heredity : Failed to do Heredity in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 20:26:6 06-Nov-2023 ===== 
+Heredity : Failed to do Heredity in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 20:26:6 06-Nov-2023 ===== 
+Heredity : Failed to do Heredity in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 20:26:6 06-Nov-2023 ===== 
+Heredity : Failed to do Heredity in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 20:27:6 06-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 20:27:6 06-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 20:38:6 06-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 21:30:6 06-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+5.6365     0.35518           0
+-0.92535      5.5713           0
+0           0      8.4176
+ V  Fe 
+17   3
+Direct
+0.5         0.5     0.23295
+0.5         0.5     0.76705
+0.15943     0.68215      0.6677
+0.68215     0.15943      0.3323
+0.31785     0.84057      0.3323
+0.84057     0.31785      0.6677
+0.5           0     0.98287
+0         0.5    0.017133
+0.5         0.5         0.5
+0.81947     0.82421     0.80932
+0.82421     0.81947     0.19068
+0.17579     0.18053     0.19068
+0.18053     0.17579     0.80932
+0.83196     0.83196         0.5
+0.16804     0.16804         0.5
+0.5           0     0.64032
+0         0.5     0.35968
+0.5         0.5           0
+0.84167     0.15833           0
+0.15833     0.84167           0
+
+
+Struture before relaxation, for checking
+1.00
+5.5657           0           0
+-1.2554      5.4223           0
+5.2855e-16   6.649e-16      8.6318
+ V  Fe 
+17   3
+Direct
+0.5         0.5     0.24421
+0.5         0.5     0.75579
+0.079017      0.7994     0.73485
+0.7994    0.079017     0.26515
+0.2006     0.92098     0.26515
+0.92098      0.2006     0.73485
+0.5           0     0.78711
+0         0.5     0.21289
+0.5         0.5         0.5
+0.74613      0.8644      0.7118
+0.8644     0.74613      0.2882
+0.1356     0.25387      0.2882
+0.25387      0.1356      0.7118
+0.76173     0.76173         0.5
+0.23827     0.23827         0.5
+0.5           0     0.39317
+0         0.5     0.60683
+0.5         0.5           0
+0.85931     0.14069           0
+0.14069     0.85931           0
+
+
+===== USPEX WARNING @ 22:53:6 06-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 22:53:6 06-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 23:3:6 06-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 1:8:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 1:8:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 3:33:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 3:33:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 9:14:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 9:14:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 11:30:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 11:30:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 11:40:7 07-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 12:12:7 07-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+3.4275     -2.4145     -5.9251
+7.2504     -0.1963     0.27866
+0.39538     -4.1739      5.9251
+ V  Fe 
+17   3
+Direct
+0.84839     0.29229     0.14068
+0.15161     0.70771     0.85932
+0.43297     0.85932     0.29229
+0.56703     0.14068     0.70771
+1.3424e-10     0.19568     0.80432
+1     0.80432     0.19568
+0.5        0.25        0.25
+0.5        0.75        0.75
+0.87954     0.58111     0.76523
+0.12046      0.1143     0.53936
+0.34634     0.23477      0.8857
+0.65366     0.46064     0.41889
+0.12046     0.41889     0.23477
+0.87954      0.8857     0.46064
+0.65366     0.76523      0.1143
+0.34634     0.53936     0.58111
+0  0  0
+0.5  1.1102e-16         0.5
+0.5         0.5  5.5511e-17
+0         0.5         0.5
+
+
+Struture before relaxation, for checking
+1.00
+7.147           0           0
+3.5466      6.2049           0
+0.053753     -4.1158      5.8426
+ V  Fe 
+17   3
+Direct
+0.23419     0.90136     0.13554
+0.76581    0.098644     0.86446
+0.13554     0.63027     0.76581
+0.86446     0.36973     0.23419
+0.30114           0     0.69886
+0.69886           0     0.30114
+0.75         0.5        0.75
+0.25         0.5        0.25
+0.42073     0.15216     0.92959
+0.22257     0.84784     0.42711
+0.57289     0.64968     0.57927
+0.070409     0.35032     0.77743
+0.57927     0.84784    0.070409
+0.77743     0.15216     0.57289
+0.42711     0.35032     0.42073
+0.92959     0.64968     0.22257
+0  0  0
+0.5         0.5           0
+0         0.5         0.5
+0.5           0         0.5
+
+
+===== USPEX WARNING @ 13:44:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 13:44:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 13:55:7 07-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 14:6:7 07-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+6.1632  8.1495e-06           0
+-3.0816      5.3375           0
+0           0      8.3938
+ V  Fe 
+17   3
+Direct
+0.25944     0.40729     0.41491
+0.85215     0.25944     0.41491
+0.59271     0.85215     0.41491
+0.74056     0.59271     0.41491
+0.14785     0.74056     0.41491
+0.40729     0.14785     0.41491
+0.26384     0.85705     0.70499
+0.40679     0.26384     0.70499
+0.14295     0.40679     0.70499
+0.73616     0.14295     0.70499
+0.59321     0.73616     0.70499
+0.85705     0.59321     0.70499
+0           0     0.92926
+0.5           0     0.95909
+0.5         0.5     0.95909
+0         0.5     0.95909
+0           0     0.16063
+0.5           0     0.17632
+0.5         0.5     0.17632
+0         0.5     0.17632
+
+
+Struture before relaxation, for checking
+1.00
+6.5238           0           0
+-3.2619      5.6498           0
+4.3064e-16  7.4589e-16      7.0328
+ V  Fe 
+17   3
+Direct
+0.16181     0.34445     0.43723
+0.81737     0.16181     0.43723
+0.65555     0.81737     0.43723
+0.83819     0.65555     0.43723
+0.18263     0.83819     0.43723
+0.34445     0.18263     0.43723
+0.26771     0.93059     0.68342
+0.33712     0.26771     0.68342
+0.06941     0.33712     0.68342
+0.73229     0.06941     0.68342
+0.66288     0.73229     0.68342
+0.93059     0.66288     0.68342
+0           0     0.94656
+0.5           0     0.89564
+0.5         0.5     0.89564
+0         0.5     0.89564
+0           0     0.24775
+0.5           0     0.20342
+0.5         0.5     0.20342
+0         0.5     0.20342
+
+
+===== USPEX WARNING @ 14:57:7 07-Nov-2023 ===== 
+Heredity : Failed to do Heredity in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 14:57:7 07-Nov-2023 ===== 
+Heredity : Failed to do Heredity in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 14:57:7 07-Nov-2023 ===== 
+Heredity : Failed to do Heredity in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 14:58:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 14:58:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 15:9:7 07-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 15:30:7 07-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+3.3131      5.7384           0
+-6.6261 -2.8136e-08       1e-16
+-1e-16           0      7.4835
+ V  Fe 
+17   3
+Direct
+1           1         0.5
+0.85973     0.71947     0.73632
+0.28053     0.14026     0.73632
+0.85973     0.14026     0.73632
+0.14027     0.85974     0.26368
+0.14027     0.28053     0.26368
+0.71947     0.85974     0.26368
+0.66667     0.33333     0.18285
+0.33333     0.66667     0.81715
+0  0  0
+1         0.5 -8.2354e-34
+0.5         0.5           1
+0.5  4.0419e-17           1
+0.66667     0.33333     0.49129
+0.33333     0.66667     0.50871
+0.66667     0.33333     0.81388
+0.33333     0.66667     0.18612
+1         0.5         0.5
+0.5         0.5         0.5
+0.5  4.7965e-17         0.5
+
+
+Struture before relaxation, for checking
+1.00
+6.8865           0           0
+-3.4433      5.9639           0
+3.863e-16  6.6908e-16      6.3087
+ V  Fe 
+17   3
+Direct
+0           0         0.5
+0.16797     0.83203     0.66962
+0.16797     0.33595     0.66962
+0.66405     0.83203     0.66962
+0.33595     0.16797     0.33038
+0.83203     0.16797     0.33038
+0.83203     0.66405     0.33038
+0.33333     0.66667    0.093551
+0.66667     0.33333     0.90645
+0  0  0
+0.5           0           0
+0         0.5           0
+0.5         0.5           0
+0.33333     0.66667      0.4003
+0.66667     0.33333      0.5997
+0.33333     0.66667     0.73701
+0.66667     0.33333     0.26299
+0.5           0         0.5
+0         0.5         0.5
+0.5         0.5         0.5
+
+
+===== USPEX WARNING @ 15:40:7 07-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+1.1341e-06      -2.958     -6.1012
+6.7805 -2.5968e-08 -5.3563e-08
+3.3902     -3.8074      5.6135
+ V  Fe 
+17   3
+Direct
+0.090683     0.90932     0.70013
+0.60945     0.39055     0.70013
+0.60945     0.90932     0.70013
+0.090683     0.39055     0.70013
+0.35989     0.89182     0.21635
+0.85646     0.89182     0.21635
+0.10818     0.64011     0.21636
+0.10818     0.14354     0.21636
+0.95592    0.044082     0.91184
+0.42639     0.57361     0.85278
+0.84217     0.41054     0.17892
+0.33675     0.41054     0.17892
+0.58946     0.15783     0.17892
+0.58946     0.66325     0.17892
+0.76337     0.73663     0.52674
+0.26337     0.23663     0.52674
+0.75463     0.24537     0.50926
+0.94032     0.55968     0.88064
+0.44032    0.059682     0.88064
+0.26101     0.73899     0.52203
+
+
+Struture before relaxation, for checking
+1.00
+6.3099           0           0
+3.155       7.232           0
+3.155     -4.4793      5.6778
+ V  Fe 
+17   3
+Direct
+0     0.90676     0.59746
+0     0.40254    0.093241
+0.50422     0.40254    0.093241
+0.49578     0.90676     0.59746
+0.24737     0.59896      0.9063
+0.75263    0.093703     0.40104
+0.75263     0.84633     0.15367
+0.24737     0.84633     0.15367
+0    0.043209     0.95679
+0     0.52242     0.47758
+0.30798     0.12612     0.25793
+0.69202     0.74207     0.87388
+0.69202     0.43409     0.56591
+0.30798     0.43409     0.56591
+0.5     0.24034     0.75966
+0.5     0.74034     0.25966
+0     0.34175     0.65825
+0.5    0.085857     0.91414
+0.5     0.58586     0.41414
+0     0.70381     0.29619
+
+
+===== USPEX WARNING @ 16:43:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 16:43:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 16:53:7 07-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 17:56:7 07-Nov-2023 ===== 
+Heredity : Failed to do Heredity in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 17:56:7 07-Nov-2023 ===== 
+Heredity : Failed to do Heredity in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 17:56:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 17:56:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 18:7:7 07-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 18:48:7 07-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+5.404           0           0
+0       5.404           0
+0           0      9.4849
+ V  Fe 
+17   3
+Direct
+0.76261     0.76261     0.17263
+0.76261     0.23739     0.82737
+0.23739     0.76261     0.82737
+0.23739     0.23739     0.17263
+0.5         0.5         0.5
+0         0.5     0.39212
+0         0.5     0.60788
+0.5           0     0.39212
+0.5           0     0.60788
+0.5         0.5           0
+0.76252     0.76252     0.82727
+0.76252     0.23748     0.17273
+0.23748     0.76252     0.17273
+0.23748     0.23748     0.82727
+0.5           0           0
+0         0.5           0
+0           0         0.5
+0  0  0
+0.5         0.5     0.70747
+0.5         0.5     0.29253
+
+
+Struture before relaxation, for checking
+1.00
+5.199           0           0
+3.1835e-16       5.199           0
+5.8791e-16  5.8791e-16      9.6012
+ V  Fe 
+17   3
+Direct
+0.82784     0.82784     0.18715
+0.82784     0.17216     0.81285
+0.17216     0.82784     0.81285
+0.17216     0.17216     0.18715
+0.5         0.5         0.5
+0         0.5     0.34511
+0         0.5     0.65489
+0.5           0     0.34511
+0.5           0     0.65489
+0.5         0.5           0
+0.80566     0.80566     0.72826
+0.80566     0.19434     0.27174
+0.19434     0.80566     0.27174
+0.19434     0.19434     0.72826
+0.5           0           0
+0         0.5           0
+0           0         0.5
+0  0  0
+0.5         0.5     0.73662
+0.5         0.5     0.26338
+
+
+===== USPEX WARNING @ 20:11:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 20:11:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 20:22:7 07-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 21:3:7 07-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+5.5567           0           0
+0      5.5567           0
+0           0      9.0201
+ V  Fe 
+17   3
+Direct
+0.13974     0.13974     0.77014
+0.13974     0.86026     0.22986
+0.86026     0.13974     0.22986
+0.86026     0.86026     0.77014
+0.80797     0.45009       0.861
+0.80797     0.54991       0.139
+0.19203     0.45009       0.139
+0.19203     0.54991       0.861
+0.45009     0.80797       0.861
+0.45009     0.19203       0.139
+0.54991     0.80797       0.139
+0.54991     0.19203       0.861
+0         0.5     0.40139
+0         0.5     0.59861
+0.5           0     0.40139
+0.5           0     0.59861
+0           0         0.5
+0.5         0.5     0.62114
+0.5         0.5     0.37886
+0  0  0
+
+
+Struture before relaxation, for checking
+1.00
+5.6265           0           0
+3.4452e-16      5.6265           0
+5.0154e-16  5.0154e-16      8.1908
+ V  Fe 
+17   3
+Direct
+0.22698     0.22698     0.67215
+0.22698     0.77302     0.32785
+0.77302     0.22698     0.32785
+0.77302     0.77302     0.67215
+0.85583     0.42263     0.89215
+0.85583     0.57737     0.10785
+0.14417     0.42263     0.10785
+0.14417     0.57737     0.89215
+0.42263     0.85583     0.89215
+0.42263     0.14417     0.10785
+0.57737     0.85583     0.10785
+0.57737     0.14417     0.89215
+0         0.5     0.38755
+0         0.5     0.61245
+0.5           0     0.38755
+0.5           0     0.61245
+0           0         0.5
+0.5         0.5     0.71127
+0.5         0.5     0.28873
+0  0  0
+
+
+===== USPEX WARNING @ 22:15:7 07-Nov-2023 ===== 
+Heredity : Failed to do Heredity in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 22:17:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 22:17:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 23:42:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 23:42:7 07-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 1:28:8 08-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 1:28:8 08-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 1:38:8 08-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 3:32:8 08-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 3:33:8 08-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 3:43:8 08-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 5:17:8 08-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 5:17:8 08-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 7:0:8 08-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+4.905      1.0076   -0.035326
+-3.5023      7.0246    -0.36167
+-0.023601    -0.31438      6.5816
+ V  Fe 
+17   3
+Direct
+0.45205    0.041242     0.32718
+0.508     0.93493     0.62221
+0.92622    0.094117      0.1556
+0.98676     0.85741     0.76476
+0.83022     0.44908     0.23307
+0.16815     0.55991     0.73041
+0.61628     0.73284     0.25944
+0.35186     0.25962      0.6854
+0.075894     0.77152    0.098897
+0.88123     0.20956     0.84661
+0.14753     0.68503     0.42366
+0.82607     0.30337     0.53399
+0.55469     0.81413     0.93869
+0.47701     0.26193    0.088836
+0.97764     0.99794     0.46546
+0.24956     0.49011    0.051959
+0.64311      0.6067     0.57217
+0.32055    0.038363      0.9312
+0.29878     0.37283     0.38409
+0.71285      0.5216     0.88861
+
+
+Struture before relaxation, for checking
+1.00
+6.2944           0           0
+4.8995e-16      8.0016           0
+3.1497e-16  3.1497e-16      5.1438
+ V  Fe 
+17   3
+Direct
+0.22401     0.04455     0.21103
+0.77621     0.95567     0.78919
+0.72399     0.04453     0.28919
+0.27623     0.95569     0.71103
+0.22399     0.45567     0.21101
+0.77623     0.54455     0.78921
+0.96839      0.7501      0.3968
+0.03183     0.25012     0.60342
+0.46841     0.75012     0.10342
+0.53181      0.2501      0.8968
+0.34994      0.7501     0.48076
+0.65028     0.25012     0.51946
+0.84996     0.75012     0.01946
+0.15026      0.2501     0.98076
+0.00012     0.00012     0.50012
+0.50012     0.50012     0.00012
+0.00012     0.50012     0.50012
+0.50012     0.00012     0.00012
+0.72401     0.45569     0.28921
+0.27621     0.54453     0.71101
+
+
+===== USPEX WARNING @ 7:2:8 08-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 7:2:8 08-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 7:13:8 08-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 8:56:8 08-Nov-2023 ===== 
+Heredity : Failed to do Heredity in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 8:57:8 08-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 8:57:8 08-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 10:47:27 27-Nov-2023 ===== 
+Start : The USPEX working folder changed : 
+Start :     /home/kavita/workspace/ameeya/FEV/Mg19_V1 --> /home/kavita/workspace/ameeya/FEV/V_Fe
+
+===== USPEX WARNING @ 10:49:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 10:49:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 12:8:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 12:8:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 12:24:27 27-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 12:40:27 27-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+7.4231           0           0
+-3.7115      6.4286           0
+0           0      6.0545
+ V  Fe 
+17   3
+Direct
+0           0     0.24578
+0           0     0.75422
+0.31062           0         0.5
+1     0.31062         0.5
+0.68938     0.68938         0.5
+0.33333     0.66667     0.79684
+0.66667     0.33333     0.20316
+0.33333     0.66667     0.20316
+0.66667     0.33333     0.79684
+0.83094     0.66641           0
+0.33359     0.16454           0
+0.83546     0.16906           0
+0.16454     0.33359           0
+0.66641     0.83094           0
+0.16906     0.83546           0
+0.33333     0.66667         0.5
+0.66667     0.33333         0.5
+0.69534           0         0.5
+1     0.69534         0.5
+0.30466     0.30466         0.5
+
+
+Struture before relaxation, for checking
+1.00
+6.6378           0           0
+-3.3189      5.7485           0
+4.1662e-16  7.2161e-16      6.8039
+ V  Fe 
+17   3
+Direct
+0           0     0.20628
+0           0     0.79372
+0.28266           0         0.5
+0     0.28266         0.5
+0.71734     0.71734         0.5
+0.33333     0.66667     0.76946
+0.66667     0.33333     0.23054
+0.33333     0.66667     0.23054
+0.66667     0.33333     0.76946
+0.78417     0.60008           0
+0.39992     0.18409           0
+0.81591     0.21583           0
+0.18409     0.39992           0
+0.60008     0.78417           0
+0.21583     0.81591           0
+0.33333     0.66667         0.5
+0.66667     0.33333         0.5
+0.61864           0         0.5
+0     0.61864         0.5
+0.38136     0.38136         0.5
+
+
+===== USPEX WARNING @ 12:55:27 27-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+5.2746  1.5343e-10           0
+-1.5343e-10      5.2746           0
+0           0      9.6516
+ V  Fe 
+17   3
+Direct
+0.38556      0.8132     0.25872
+0.61444      0.1868     0.25872
+0.1868     0.38556     0.25872
+0.8132     0.61444     0.25872
+0.69162     0.88183     0.50172
+0.30838     0.11817     0.50172
+0.11817     0.69162     0.50172
+0.88183     0.30838     0.50172
+0         0.5     0.78154
+0.5           0     0.78154
+0.5         0.5     0.85639
+0.17162     0.67799    0.024806
+0.82838     0.32201    0.024806
+0.32201     0.17162    0.024806
+0.67799     0.82838    0.024806
+0.5         0.5     0.67401
+0           0     0.25998
+0           0     0.67502
+0.5         0.5     0.44503
+0           0     0.89739
+
+
+Struture before relaxation, for checking
+1.00
+4.9265           0           0
+3.0166e-16      4.9265           0
+6.5499e-16   6.5499e-16      10.6968
+ V  Fe 
+17   3
+Direct
+0.58589     0.80655     0.20851
+0.41411     0.19345     0.20851
+0.19345     0.58589     0.20851
+0.80655     0.41411     0.20851
+0.75385     0.80606     0.52198
+0.24615     0.19394     0.52198
+0.19394     0.75385     0.52198
+0.80606     0.24615     0.52198
+0         0.5     0.80494
+0.5           0     0.80494
+0.5         0.5     0.90834
+0.18656     0.73963    0.047817
+0.81344     0.26037    0.047817
+0.26037     0.18656    0.047817
+0.73963     0.81344    0.047817
+0.5         0.5     0.62718
+0           0     0.29108
+0           0     0.67137
+0.5         0.5     0.40059
+0           0     0.89025
+
+
+===== USPEX WARNING @ 13:27:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 13:27:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 13:43:27 27-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 15:31:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 15:31:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 15:31:27 27-Nov-2023 ===== 
+Mutation : Failed to do Mutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 17:21:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 17:21:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 19:10:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 19:10:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 19:25:27 27-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 19:41:27 27-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+4.9871           0           0
+0      4.9871           0
+0            0      11.6987
+ V  Fe 
+17   3
+Direct
+0.74995     0.74995      0.3985
+0.74995     0.25005      0.6015
+0.25005     0.74995      0.6015
+0.25005     0.25005      0.3985
+0.25005     0.25005      0.6015
+0.25005     0.74995      0.3985
+0.74995     0.25005      0.3985
+0.74995     0.74995      0.6015
+0.17986         0.5     0.19707
+0.17986         0.5     0.80293
+0.82014         0.5     0.80293
+0.82014         0.5     0.19707
+0.5     0.82014     0.80293
+0.5     0.17986     0.19707
+0.5     0.82014     0.19707
+0.5     0.17986     0.80293
+0.5         0.5           0
+0  0  0
+0         0.5           0
+0.5           0           0
+
+
+Struture before relaxation, for checking
+1.00
+4.8265           0           0
+2.9554e-16      4.8265           0
+6.82036e-16  6.82036e-16      11.1385
+ V  Fe 
+17   3
+Direct
+0.78403     0.78403      0.4084
+0.78403     0.21597      0.5916
+0.21597     0.78403      0.5916
+0.21597     0.21597      0.4084
+0.21597     0.21597      0.5916
+0.21597     0.78403      0.4084
+0.78403     0.21597      0.4084
+0.78403     0.78403      0.5916
+0.20448         0.5     0.24442
+0.20448         0.5     0.75558
+0.79552         0.5     0.75558
+0.79552         0.5     0.24442
+0.5     0.79552     0.75558
+0.5     0.20448     0.24442
+0.5     0.79552     0.24442
+0.5     0.20448     0.75558
+0.5         0.5           0
+0  0  0
+0         0.5           0
+0.5           0           0
+
+
+===== USPEX WARNING @ 21:6:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 21:6:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 22:40:27 27-Nov-2023 ===== 
+Read_VASP : VASP SCF is not converged! 
+
+===== USPEX WARNING @ 22:42:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 22:42:27 27-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 0:0:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 0:0:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 1:56:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 1:56:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 2:12:28 28-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 2:28:28 28-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+2.8356      4.9114           0
+-2.8356      4.9114           0
+0            0      10.0883
+ V  Fe 
+17   3
+Direct
+0.33333     0.33333     0.56328
+0.66667     0.66667     0.56328
+0.5         0.5     0.19955
+0.5           0     0.19955
+0         0.5     0.19955
+0.5         0.5     0.73823
+0.5           0     0.73823
+0         0.5     0.73823
+0           0     0.34167
+0           0     0.74077
+0.24426     0.60377     0.96407
+0.39624     0.84803     0.96407
+0.15197     0.24426     0.96407
+0.75574     0.39623     0.96407
+0.60376     0.15197     0.96407
+0.84803     0.75574     0.96407
+0           0     0.15697
+0.5         0.5     0.38867
+0.5           0     0.38867
+0         0.5     0.38867
+
+
+Struture before relaxation, for checking
+1.00
+5.9265           0           0
+-2.9632      5.1325           0
+5.2222e-16  9.0451e-16      8.5285
+ V  Fe 
+17   3
+Direct
+0.33333     0.66667     0.49868
+0.66667     0.33333     0.49868
+0.5           0     0.12222
+0.5         0.5     0.12222
+0         0.5     0.12222
+0.5           0     0.86481
+0.5         0.5     0.86481
+0         0.5     0.86481
+0           0     0.36199
+0           0     0.64627
+0.19953     0.79402     0.98858
+0.40551     0.19953     0.98858
+0.20598     0.40551     0.98858
+0.80047     0.20598     0.98858
+0.59449     0.80047     0.98858
+0.79402     0.59449     0.98858
+0           0     0.13404
+0.5           0     0.36584
+0.5         0.5     0.36584
+0         0.5     0.36584
+
+
+===== USPEX WARNING @ 3:15:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 3:15:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 3:31:28 28-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 5:5:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 5:5:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 5:5:28 28-Nov-2023 ===== 
+Mutation : Failed to do Mutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 7:25:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 7:25:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 7:41:28 28-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 8:59:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 8:59:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 9:0:28 28-Nov-2023 ===== 
+Mutation : Failed to do Mutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 10:3:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 10:3:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 12:11:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 12:11:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 13:31:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 13:31:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 14:55:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 14:55:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 16:16:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 16:16:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 18:10:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 18:10:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 18:42:28 28-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+7.5613           0           0
+-3.7806      6.5483           0
+0           0      6.0576
+ V  Fe 
+17   3
+Direct
+0.21078           0     0.30831
+1     0.21078     0.30831
+0.78922     0.78922     0.30831
+0.21078     0.21078     0.69169
+0.78922           0     0.69169
+4.059e-13     0.78922     0.69169
+0.43591     0.56409         0.5
+0.43591     0.87181         0.5
+0.12819     0.56409         0.5
+0.56409     0.43591         0.5
+0.56409     0.12819         0.5
+0.87181     0.43591         0.5
+0  0  0
+0.33333     0.66667     0.15127
+0.33333     0.66667     0.84873
+0.66667     0.33333     0.84873
+0.66667     0.33333     0.15127
+0.5           0           0
+0         0.5           0
+0.5         0.5           0
+
+
+Struture before relaxation, for checking
+1.00
+7.3247           0           0
+-3.6624      6.3434           0
+3.4201e-16  5.9238e-16      5.5854
+ V  Fe 
+17   3
+Direct
+0.21734           0     0.31583
+0     0.21734     0.31583
+0.78266     0.78266     0.31583
+0.21734     0.21734     0.68417
+0.78266           0     0.68417
+0     0.78266     0.68417
+0.42178     0.57822         0.5
+0.42178     0.84356         0.5
+0.15644     0.57822         0.5
+0.57822     0.42178         0.5
+0.57822     0.15644         0.5
+0.84356     0.42178         0.5
+0  0  0
+0.33333     0.66667     0.16771
+0.33333     0.66667     0.83229
+0.66667     0.33333     0.83229
+0.66667     0.33333     0.16771
+0.5           0           0
+0         0.5           0
+0.5         0.5           0
+
+
+===== USPEX WARNING @ 20:29:28 28-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+5.91276    -0.639092     -11.5415
+6.1528     0.50803      2.3857
+0.13026     -3.0816     0.24507
+ V  Fe 
+17   3
+Direct
+0.77723     0.82114     0.56992
+0.3298     0.91366     0.57412
+0.42063     0.43006     0.57152
+0.10323     0.91392     0.75345
+0.17421     0.31534     0.57452
+0.20955     0.53562    0.098737
+0.98372     0.56257     0.57346
+0.60807     0.54162    0.074102
+0.60842     0.16321     0.56864
+0.02614     0.32584    0.072165
+0.48247     0.20263     0.06867
+0.53674     0.75789     0.57766
+0.41345     0.70968    0.074938
+0.90008     0.77662    0.076735
+0.90967     0.22723     0.56806
+0.73112    0.061593    0.070169
+0.27292     0.14783    0.072808
+0.82723     0.40999    0.071306
+0.71038     0.44021     0.57092
+0.10303      0.9143     0.25377
+
+
+Struture before relaxation, for checking
+1.00
+34.7436            0            0
+4.3495      18.8916            0
+0.28757     -3.7499     0.39539
+ V  Fe 
+17   3
+Direct
+0.80255     0.80478     0.14917
+0.40166     0.90365   -0.021266
+0.41433     0.39749     0.38667
+0.0092792   0.0040498     0.52216
+0.20198     0.20398    -0.38685
+0.20315     0.69998     0.51925
+0.0036108     0.49781   -0.050351
+0.60663     0.60082     0.45943
+0.61293      0.1019     0.18349
+0.097437     0.85403      1.0173
+0.50819     0.75361     0.74404
+0.50281     0.25222       0.754
+0.31436    0.052067     0.28036
+0.90781     0.15422      1.0172
+0.90468     0.65036     0.59465
+0.71244     0.44802      1.0913
+0.30261      0.5464     0.96799
+0.80815     0.29976     0.80414
+0.70826     0.95481     0.60839
+0.10522      0.3506    -0.15263
+
+
+===== USPEX WARNING @ 20:30:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 20:31:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 22:20:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 22:20:28 28-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 22:52:28 28-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+7.2919  7.5998e-08           0
+-3.646       6.315           0
+0           0       5.872
+ V  Fe 
+17   3
+Direct
+0  0  0
+0.33333     0.66667     0.67224
+0.66667     0.33333     0.67224
+0.66667     0.33333     0.32776
+0.33333     0.66667     0.32776
+0.013209     0.69457     0.74908
+0.31863    0.013209     0.74908
+0.30543     0.31863     0.74908
+0.98679     0.30543     0.74908
+0.68137     0.98679     0.74908
+0.69457     0.68137     0.74908
+0.31863     0.30543     0.25092
+0.013209     0.31863     0.25092
+0.69457    0.013209     0.25092
+0.68137     0.69457     0.25092
+0.98679     0.68137     0.25092
+0.30543     0.98679     0.25092
+0           0         0.5
+0.33333     0.66667           0
+0.66667     0.33333           0
+
+
+Struture before relaxation, for checking
+1.00
+6.3352           0           0
+-3.1676      5.4865           0
+4.5706e-16  7.9165e-16      7.4643
+ V  Fe 
+17   3
+Direct
+0  0  0
+0.33333     0.66667     0.71276
+0.66667     0.33333     0.71276
+0.66667     0.33333     0.28724
+0.33333     0.66667     0.28724
+0.89122     0.67153     0.85667
+0.2197     0.89122     0.85667
+0.32847      0.2197     0.85667
+0.10878     0.32847     0.85667
+0.7803     0.10878     0.85667
+0.67153      0.7803     0.85667
+0.2197     0.32847     0.14333
+0.89122      0.2197     0.14333
+0.67153     0.89122     0.14333
+0.7803     0.67153     0.14333
+0.10878      0.7803     0.14333
+0.32847     0.10878     0.14333
+0           0         0.5
+0.33333     0.66667           0
+0.66667     0.33333           0
+
+
+===== USPEX WARNING @ 0:23:29 29-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+5.94077     -1.01762     -10.8689
+6.6309     0.50802      2.4955
+0.17617     -3.0283     0.23247
+ V  Fe 
+17   3
+Direct
+0.83047     0.81837     0.15638
+0.41021    0.038604     0.11194
+0.40182     0.43983     0.43816
+0.013943     0.94833     0.57989
+0.20252      0.2418    0.097559
+0.18768     0.60537     0.54963
+0.053127     0.56717    0.092091
+0.58805     0.66242     0.17076
+0.6239       0.134     0.25036
+0.075948     0.32396     0.60358
+0.53702     0.32676      0.8503
+0.48623     0.84537     0.63441
+0.31538      0.6333  0.00037782
+0.90752     0.62188      0.6264
+0.84146     0.25295    0.077961
+0.70706     0.92565     0.68348
+0.28259    0.038196     0.60742
+0.8413     0.25178     0.57794
+0.6982     0.57624     0.66714
+0.12365     0.91898      0.0599
+
+
+Struture before relaxation, for checking
+1.00
+34.7402            0            0
+4.34908      18.8898            0
+0.28754     -3.7496     0.39535
+ V  Fe 
+17   3
+Direct
+0.80316     0.80388   -0.083309
+0.40266     0.90457    -0.48934
+0.41241     0.39831      1.1003
+0.0093484   0.0032971    -0.31656
+0.20071     0.20451     0.16105
+0.20344     0.70058     0.12089
+0.0021076     0.49867     0.48167
+0.60528     0.60089    0.063134
+0.61245     0.10305     0.71301
+0.098764     0.85358     0.20257
+0.50887       0.754     0.16277
+0.50373     0.25281      1.5737
+0.3142    0.052968     0.26034
+0.90817     0.15253     0.47702
+0.90414     0.65012     0.67017
+0.71279      0.4474     0.91962
+0.30134     0.54748      1.2073
+0.80855     0.29908     0.44203
+0.70877      0.9545     0.65544
+0.10719     0.34833      1.1667
+
+
+===== USPEX WARNING @ 0:26:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 0:26:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 2:0:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 2:0:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 4:34:29 29-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+5.35786    -0.360685     -10.2051
+6.9772     0.42291      2.7214
+0.30351     -2.9753     0.43254
+ V  Fe 
+17   3
+Direct
+0.77066     0.79682     0.80429
+0.38879     0.11615     0.19889
+0.37904     0.32992     0.62395
+0.022366     0.94246     0.33395
+0.17545     0.24938    0.099116
+0.25085     0.73818     0.41047
+0.97359     0.48584     0.94315
+0.51582     0.76977     0.77557
+0.62716     0.16411     0.71735
+0.11221     0.45358     0.51014
+0.59743     0.38924      0.1724
+0.51607     0.76953     0.27589
+0.31408     0.53878    0.031077
+0.89317     0.67118     0.36636
+0.93772     0.15552     0.79082
+0.74373    0.014914     0.26117
+0.25711    0.061355     0.69391
+0.83597      0.2813     0.27012
+0.70693      0.4693     0.69407
+0.10993     0.77362     0.86297
+
+
+Struture before relaxation, for checking
+1.00
+34.7333            0            0
+4.34821       18.886            0
+0.28748     -3.7488     0.39527
+ V  Fe 
+17   3
+Direct
+0.80494     0.80595     0.82354
+0.39908     0.90368    -0.57281
+0.41553     0.39977    -0.42835
+0.010343   0.0066808     0.64323
+0.2022     0.20772    0.086577
+0.20172      0.6989     -0.1795
+4.4246e-05     0.49571     0.72591
+0.60624     0.60413    -0.27228
+0.61088    0.098311     0.20749
+0.10097     0.85665     0.75693
+0.50778     0.75391   -0.016801
+0.50776     0.25387     0.29789
+0.31584    0.056103      0.1852
+0.90617     0.15163      1.3648
+0.90778     0.65214      1.2596
+0.71384     0.45118     0.67572
+0.30117     0.54496    0.092509
+0.80234      0.2933      1.1008
+0.70922     0.95093      1.4788
+0.10425     0.34504      1.2593
+
+
+===== USPEX WARNING @ 4:36:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 4:36:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 6:56:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 6:56:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 7:12:29 29-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 8:45:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 8:45:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 10:4:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 10:4:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 11:58:29 29-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+5.51577     -1.06245     -13.5035
+6.7117     0.60014      3.3756
+0.21622      -2.275     0.20753
+ V  Fe 
+17   3
+Direct
+0.80308      0.7366     0.44967
+0.4387     0.94285    0.099323
+0.36006     0.47308    0.093015
+0.017354    0.085506     0.46113
+0.20736      0.1865     0.21234
+0.17255     0.81921     0.97103
+0.0083377     0.45283     0.31993
+0.63041     0.59537     0.81764
+0.58611     0.21767     0.37384
+0.11975     0.45954     0.60264
+0.49296     0.30524     0.67073
+0.50288     0.78838     0.41185
+0.30573     0.64345     0.37607
+0.91296     0.72443     0.72693
+0.9038    0.092985     0.18426
+0.69682     0.98496     0.08128
+0.30277     0.10622     0.51029
+0.83954     0.38024     0.23528
+0.74492     0.38239     0.75152
+0.081983     0.79351     0.48691
+
+
+Struture before relaxation, for checking
+1.00
+34.7269            0            0
+4.34741      18.8826            0
+0.28743     -3.7481      0.3952
+ V  Fe 
+17   3
+Direct
+0.80766     0.80508     0.32846
+0.40621     0.90221     0.59646
+0.41785     0.39901     0.02382
+0.01446   0.0060711    -0.41711
+0.20775     0.20564     0.16745
+0.20553      0.7002    -0.65257
+0.0049191     0.49717   -0.051124
+0.61043      0.6013     0.81908
+0.61665     0.10082     0.64889
+0.091628     0.85271    -0.12776
+0.50846     0.75368      1.2115
+0.49597     0.24911     0.87273
+0.30963    0.048941     0.91317
+0.90721     0.15641     0.50254
+0.90117      0.6468     0.56957
+0.70525     0.44521      1.3604
+0.29993     0.54828     0.11026
+0.81439     0.29703     0.82063
+0.7048     0.95922      1.4923
+0.098171     0.35568     0.29972
+
+
+===== USPEX WARNING @ 12:0:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 12:1:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 12:16:29 29-Nov-2023 ===== 
+Read_VASP : VASP 1st SCF is not Done! 
+
+===== USPEX WARNING @ 12:32:29 29-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+7.2128    -0.73724     0.66356
+1.0935      6.0365    -0.28446
+-1.0935    -0.91615      5.9734
+ V  Fe 
+17   3
+Direct
+0.13072     0.41524     0.93592
+0.86928     0.93592     0.41524
+0.86928     0.58476    0.064083
+0.13072    0.064083     0.58476
+0.5         0.5           0
+0.5  2.7756e-17         0.5
+0.31506     0.25698     0.30912
+0.68494     0.30912     0.25698
+0.68494     0.74302     0.69088
+0.31506     0.69088     0.74302
+1      0.1704      0.1704
+4.8378e-11      0.8296      0.8296
+0.24589     0.85133     0.14867
+0.75411     0.14867     0.85133
+0.61682     0.90306    0.096936
+0.38318    0.096936     0.90306
+1         0.5         0.5
+0.20244     0.65038     0.34962
+0.79756     0.34962     0.65038
+0.5         0.5         0.5
+
+
+Struture before relaxation, for checking
+1.00
+7.9729           0           0
+1.8051      5.7163           0
+-1.8051    -0.59966      5.6847
+ V  Fe 
+17   3
+Direct
+0.061116     0.38445     0.86102
+0.93888     0.86102     0.38445
+0.93888     0.61555     0.13898
+0.061116     0.13898     0.61555
+0.5         0.5           0
+0.5           0         0.5
+0.35668     0.24943     0.32353
+0.64332     0.32353     0.24943
+0.64332     0.75057     0.67647
+0.35668     0.67647     0.75057
+0     0.13128     0.13128
+0     0.86872     0.86872
+0.22812     0.86033     0.13967
+0.77188     0.13967     0.86033
+0.73721     0.95699    0.043007
+0.26279    0.043007     0.95699
+0         0.5         0.5
+0.19608     0.61566     0.38434
+0.80392     0.38434     0.61566
+0.5         0.5         0.5
+
+
+===== USPEX WARNING @ 12:48:29 29-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+2.7215      4.7138           0
+-2.7215      4.7138           0
+0            0      11.0505
+ V  Fe 
+17   3
+Direct
+0.53029     0.40186           0
+0.067853     0.53029           0
+0.40186    0.067852           0
+0.089096     0.24239     0.34461
+0.66851    0.089096     0.34461
+0.24239     0.66851     0.34461
+0.24239     0.66851     0.65539
+0.089096     0.24239     0.65539
+0.66851    0.089096     0.65539
+0.66667     0.66667     0.24567
+0.66667     0.66667     0.75433
+0.67943     0.40175         0.5
+0.91882     0.67943         0.5
+0.40175     0.91882         0.5
+0.33333     0.33333     0.19833
+0.33333     0.33333     0.80167
+0  0  0
+0.66667     0.66667           0
+0           0      0.1996
+0           0      0.8004
+
+
+Struture before relaxation, for checking
+1.00
+5.557           0           0
+-2.7785      4.8125           0
+5.932e-16  1.0275e-15      9.6877
+ V  Fe 
+17   3
+Direct
+0.54565     0.85031           0
+0.14969     0.69534           0
+0.30466     0.45435           0
+0.2135     0.43348     0.40219
+0.56652     0.78002     0.40219
+0.21998      0.7865     0.40219
+0.21998      0.7865     0.59781
+0.2135     0.43348     0.59781
+0.56652     0.78002     0.59781
+0.66667     0.33333     0.32179
+0.66667     0.33333     0.67821
+0.77568     0.19521         0.5
+0.80479     0.58047         0.5
+0.41953     0.22432         0.5
+0.33333     0.66667     0.17398
+0.33333     0.66667     0.82602
+0  0  0
+0.66667     0.33333           0
+0           0     0.24976
+0           0     0.75024
+
+
+===== USPEX WARNING @ 13:5:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 13:5:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 14:23:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 14:23:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 14:31:29 29-Nov-2023 ===== 
+Read_VASP : VASP SCF is not converged! 
+
+===== USPEX WARNING @ 16:34:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 16:34:29 29-Nov-2023 ===== 
+LatticeMutation : Failed to do LatMutation in 50 attempts, switch to Random! 
+
+===== USPEX WARNING @ 18:37:29 29-Nov-2023 ===== 
+The structure after relaxation cannot satisfy distance constraint
+1.00
+4.905      1.0081    -0.03315
+-3.5025      7.0241    -0.35984
+-0.025914    -0.31665      6.5804
+ V  Fe 
+17   3
+Direct
+0.45216    0.041183     0.32711
+0.50802     0.93487     0.62219
+0.92618    0.094073     0.15556
+0.98675     0.85744     0.76479
+0.83015     0.44905     0.23306
+0.16809     0.55993      0.7304
+0.61627     0.73278     0.25949
+0.35189     0.25961     0.68533
+0.075908     0.77154     0.09894
+0.88127     0.20959     0.84655
+0.14755     0.68504     0.42375
+0.82604     0.30337     0.53398
+0.55467     0.81417     0.93876
+0.47698     0.26199    0.088848
+0.97776     0.99797     0.46545
+0.24948     0.49009    0.051954
+0.64318     0.60673     0.57228
+0.3205    0.038344     0.93114
+0.29885     0.37286     0.38406
+0.71279      0.5216     0.88861
+
+
+Struture before relaxation, for checking
+1.00
+6.2944           0           0
+4.8996e-16      8.0016           0
+3.1497e-16  3.1497e-16      5.1439
+ V  Fe 
+17   3
+Direct
+0.22401     0.04455     0.21103
+0.77621     0.95567     0.78919
+0.72399     0.04453     0.28919
+0.27623     0.95569     0.71103
+0.22399     0.45567     0.21101
+0.77623     0.54455     0.78921
+0.96839      0.7501      0.3968
+0.03183     0.25012     0.60342
+0.46841     0.75012     0.10342
+0.53181      0.2501      0.8968
+0.34994      0.7501     0.48076
+0.65028     0.25012     0.51946
+0.84996     0.75012     0.01946
+0.15026      0.2501     0.98076
+0.00012     0.00012     0.50012
+0.50012     0.50012     0.00012
+0.00012     0.50012     0.50012
+0.50012     0.00012     0.00012
+0.72401     0.45569     0.28921
+0.27621     0.54453     0.71101
+
+
